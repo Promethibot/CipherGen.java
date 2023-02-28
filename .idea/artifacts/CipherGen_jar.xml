@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CipherGen:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CipherGen.jar</output-path>
+    <root id="archive" name="CipherGen.jar">
+      <element id="module-output" name="CipherGen" />
+    </root>
+  </artifact>
+</component>
